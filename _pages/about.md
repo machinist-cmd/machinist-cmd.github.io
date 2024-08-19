@@ -46,6 +46,7 @@ Interesting project
 Academic Services
 ------
 Reviewer for IEEE Transactions on Circuits and Systems II: Express Briefs.
+Reviewer for International Journal of Sensors and Sensor Networks.
 
 For more info
 ------
