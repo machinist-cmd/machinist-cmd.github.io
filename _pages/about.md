@@ -25,12 +25,13 @@ Conference Paper
 
 Journal Article
 ======
-1. Zhan Chen, Wenxing Fu, Ruitao Zhang, Yangwang Fang, and Zhun Xiao. Distributed Cubature Information Filtering Method for State Estimation in Bearing-Only Sensor Network. Entropy. 2024, 26(3): 236.
-2. Zhan Chen, Wenxing Fu, Yuansheng Li, Ruitao Zhang, and Dangshuai Song. Distributed Planning Method for Detection Array of UAV Formation Equipped with Bearing-only Sensor Network. The Aeronautical Journal. 2024.
-3. Zhan Chen, Yangwang Fang, Ruitao Zhang, and Wenxing Fu. Layout of Detection Array Based on Multi-Strategy Fusion Improved Adaptive Mayfly Algorithm in Bearing-Only Sensor Network. Sensors, 2024, 24(8): 2415.
-4. Zhan Chen, Jianning Gong, Yuanyuan Liu, and Jingbang Xu. Path Optimization Algorithm of Multi-AGV System Based on Taboo Search. Computer Engineering and Applications. 2021, 57(10): 273-278.
-5. Zhan Chen, Jianning Gong, Yang Liu, and Zhaoqi Kang. Design and implementation of communication scheme in AGV dispatching system. Manufacturing Automation. 2022,44(03):33-36.
-6. Zhaoqi Kang, Yang Liu, Yuanyuan Liu, Zhan Chen, and Jingbang Xu. Modular AGV control system design under ROS framework. Manufacturing Automation. 2022,44(12):80-84.
+1. Zhan Chen, Yangwang Fang, Ruitao Zhang, and Wenxing Fu. 	Factor graph method for target state estimation in bearing-only sensor network. Journal of Systems Engineering and Electronics.
+2. Zhan Chen, Wenxing Fu, Ruitao Zhang, Yangwang Fang, and Zhun Xiao. Distributed Cubature Information Filtering Method for State Estimation in Bearing-Only Sensor Network. Entropy. 2024, 26(3): 236.
+3. Zhan Chen, Wenxing Fu, Yuansheng Li, Ruitao Zhang, and Dangshuai Song. Distributed Planning Method for Detection Array of UAV Formation Equipped with Bearing-only Sensor Network. The Aeronautical Journal. 2024.
+4. Zhan Chen, Yangwang Fang, Ruitao Zhang, and Wenxing Fu. Layout of Detection Array Based on Multi-Strategy Fusion Improved Adaptive Mayfly Algorithm in Bearing-Only Sensor Network. Sensors, 2024, 24(8): 2415.
+5. Zhan Chen, Jianning Gong, Yuanyuan Liu, and Jingbang Xu. Path Optimization Algorithm of Multi-AGV System Based on Taboo Search. Computer Engineering and Applications. 2021, 57(10): 273-278.
+6. Zhan Chen, Jianning Gong, Yang Liu, and Zhaoqi Kang. Design and implementation of communication scheme in AGV dispatching system. Manufacturing Automation. 2022,44(03):33-36.
+7. Zhaoqi Kang, Yang Liu, Yuanyuan Liu, Zhan Chen, and Jingbang Xu. Modular AGV control system design under ROS framework. Manufacturing Automation. 2022,44(12):80-84.
 
 Interesting project
 ======
