@@ -39,8 +39,9 @@ Conference Paper
 3. Z. Chen, Y. Fang, W. Fu, R. Zhang and G. Yang, "Distributed Unscented Kalman Filtering Method for Maneuvering Target State Estimation in Passive Sensor Network," 2023 China Automation Congress (CAC), Chongqing, China, 2023, pp. 56-60, doi: 10.1109/CAC59555.2023.10450454.
 4. Z. Chen, W. Fu, R. Zhang, B. Ye and Y. Fang, "Distributed Array Planning Method with Layered Constraint in Multi-UAV Formation with Bearing-only Detection," 2024 43rd Chinese Control Conference (CCC), Kunming, China, 2024, pp. 5790-5795, doi: 10.23919/CCC63176.2024.10661432.
 5. Zhan Chen, Wenxing Fu, Mengjing Gao, Ruitao Zhang and Yangwang Fang. Space-Time Cooperative Guidance Method Based on Differential Game with Finite-Time Convergence. 2024 International Conference on Guidance, Navigation and Control (ICGNC).
-6. Zhan Chen, Jianning Gong, and Yuanyuan Liu. Research on AGVS Dynamic Path Planning Method Based on UGNL. Proceedings of the 2020 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence.
-7. R. Zhang, Y. Fang, Z. Chen, H. Guo and W. Fu, "Linear Coupling Group Cooperative Guidance Law," 2023 42nd Chinese Control Conference (CCC), Tianjin, China, 2023, pp. 6141-6146, doi: 10.23919/CCC58697.2023.10239964.
+6. Sun W, Chen Z, Niu Y, et al. A Novel Visual-Inertial SLAM Fusion Method Based on Kernel Function Threshold Adaptive Adjustment Strategy and Levenberg-Marquardt Algorithm[C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Nature Singapore, 2025: 493-503.
+7. Zhan Chen, Jianning Gong, and Yuanyuan Liu. Research on AGVS Dynamic Path Planning Method Based on UGNL. Proceedings of the 2020 2nd International Conference on Robotics, Intelligent Control and Artificial Intelligence.
+8. R. Zhang, Y. Fang, Z. Chen, H. Guo and W. Fu, "Linear Coupling Group Cooperative Guidance Law," 2023 42nd Chinese Control Conference (CCC), Tianjin, China, 2023, pp. 6141-6146, doi: 10.23919/CCC58697.2023.10239964.
 
 Interesting project
 ======
