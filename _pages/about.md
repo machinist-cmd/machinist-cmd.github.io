@@ -20,17 +20,18 @@ Journal Article
 ======
 1. Zhan Chen, Wenxing Fu, Ruitao Zhang, Ruiyang Hong, and Wenbo Ye. Distributed collaborative tracking control of UAV formation considering passive detection efficiency. Chinese Journal of Aeronautics.
 2. Zhan Chen, Shunjia Zhang，Yangwang Fang, Wenxing Fu, and Mengda Ji. The error lower bound of target state estimation by bearing-only sensor. IEEE Transactions on Instrumentation & Measurement.
-3. Zhan Chen, Yangwang Fang, Ruitao Zhang, et al. Factor graph method for target state estimation in bearing-only sensor network. Journal of Systems Engineering and Electronics, 2025.
-4. Zhan Chen, Wenxing Fu, Yuansheng Li, Ruitao Zhang, and Dangshuai Song. Distributed Planning Method for Detection Array of UAV Formation Equipped with Bearing-only Sensor Network. The Aeronautical Journal. 2024.
-5. Zhan Chen, Wenxing Fu, Ruitao Zhang, Yangwang Fang, and Zhun Xiao. Distributed Cubature Information Filtering Method for State Estimation in Bearing-Only Sensor Network. Entropy. 2024, 26(3): 236.
-6. Ruitao Zhang, Wenxing Fu, Zhan Chen, Hang Guo, Yangwang Fang. Group cooperative midcourseguidance law for heterogeneous missile formation with optimal detection efficiency. ChineseJournal of Aeronautics, 2025.
-7. Ruitao Zhang, Yangwang Fang, Hang Guo, Zhan Chen, Wenxing Fu. Fixed-time event-triggeredgroup cooperative head-on interception midcourse guidance law for missile formation withcollision avoidance and connectivity preservation. Chinese Journal of Aeronautics, 2025.
-8. Ruitao Zhang, Hang Guo, Zhan Chen, Yangwang Fang, Wenxing Fu. Group cooperative midcourseguidance law based on multi-layer architecture for intercepting maneuvering target. Journal ofthe Franklin Institute, 2025.
-9. Ruitao Zhang, Yangwang Fang, Zhan Chen, Hang Guo, Wenxing Fu. Group cooperative midcourseguidance law design considering time-to-go. Journal of Systems Engineering and Electronics,2025.
-10. Zhan Chen, Jianning Gong, Yuanyuan Liu, and Jingbang Xu. Path Optimization Algorithm of Multi-AGV System Based on Taboo Search. Computer Engineering and Applications. 2021, 57(10): 273-278. (In Chinese)
-11. Zhan Chen, Jianning Gong, Yang Liu, and Zhaoqi Kang. Design and implementation of communication scheme in AGV dispatching system. Manufacturing Automation. 2022,44(03):33-36. (In Chinese)
-12. Zhang R, Fang Y, Chen Z, Guo H, Fu W. Cooperative midcourse guidance law with target changing and communication topology switching. The Aeronautical Journal. (Q2)
-13. Zhaoqi Kang, Yang Liu, Yuanyuan Liu, Zhan Chen, and Jingbang Xu. Modular AGV control system design under ROS framework. Manufacturing Automation. 2022,44(12):80-84. (In Chinese)
+3. Xiaolei Wang, Zhan Chen(Corresponding Author), Changshuai Wang, Qiang Li, Yifeng Niu. Fault-Tolerant Cooperative Control Method of Bearing-Based Fixed-Wing UAV Formations via Energy-Efficient Topology Optimization. Aerospace Science and Technology.
+4. Zhan Chen, Yangwang Fang, Ruitao Zhang, et al. Factor graph method for target state estimation in bearing-only sensor network. Journal of Systems Engineering and Electronics, 2025.
+5. Zhan Chen, Wenxing Fu, Yuansheng Li, Ruitao Zhang, and Dangshuai Song. Distributed Planning Method for Detection Array of UAV Formation Equipped with Bearing-only Sensor Network. The Aeronautical Journal. 2024.
+6. Zhan Chen, Wenxing Fu, Ruitao Zhang, Yangwang Fang, and Zhun Xiao. Distributed Cubature Information Filtering Method for State Estimation in Bearing-Only Sensor Network. Entropy. 2024, 26(3): 236.
+7. Ruitao Zhang, Wenxing Fu, Zhan Chen, Hang Guo, Yangwang Fang. Group cooperative midcourseguidance law for heterogeneous missile formation with optimal detection efficiency. ChineseJournal of Aeronautics, 2025.
+8. Ruitao Zhang, Yangwang Fang, Hang Guo, Zhan Chen, Wenxing Fu. Fixed-time event-triggeredgroup cooperative head-on interception midcourse guidance law for missile formation withcollision avoidance and connectivity preservation. Chinese Journal of Aeronautics, 2025.
+9. Ruitao Zhang, Hang Guo, Zhan Chen, Yangwang Fang, Wenxing Fu. Group cooperative midcourseguidance law based on multi-layer architecture for intercepting maneuvering target. Journal ofthe Franklin Institute, 2025.
+10. Ruitao Zhang, Yangwang Fang, Zhan Chen, Hang Guo, Wenxing Fu. Group cooperative midcourseguidance law design considering time-to-go. Journal of Systems Engineering and Electronics,2025.
+11. Zhan Chen, Jianning Gong, Yuanyuan Liu, and Jingbang Xu. Path Optimization Algorithm of Multi-AGV System Based on Taboo Search. Computer Engineering and Applications. 2021, 57(10): 273-278. (In Chinese)
+12. Zhan Chen, Jianning Gong, Yang Liu, and Zhaoqi Kang. Design and implementation of communication scheme in AGV dispatching system. Manufacturing Automation. 2022,44(03):33-36. (In Chinese)
+13. Ruitao Zhang, Yangwang Fang, Zhan Chen, Hang Guo, Wenxing Fu. Cooperative midcourse guidance law with target changing and communication topology switching. The Aeronautical Journal. (Q2)
+14. Zhaoqi Kang, Yang Liu, Yuanyuan Liu, Zhan Chen, and Jingbang Xu. Modular AGV control system design under ROS framework. Manufacturing Automation. 2022,44(12):80-84. (In Chinese)
 
 Conference Paper
 ======
