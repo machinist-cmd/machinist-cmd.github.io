@@ -54,10 +54,15 @@ Interesting project
 
 Academic Services
 ------
+Reviewer for IEEE Transactions on Instrumentation and Measurement.
+Reviewer for IEEE Transactions on Intelligent Vehicles.
 Reviewer for ISA Transactions.
 Reviewer for Defence Technology.
+Reviewer for International Journal of Aeronautical & Space Sciences.
 Reviewer for IEEE Transactions on Circuits and Systems II: Express Briefs
 Reviewer for International Journal of Sensors and Sensor Networks.
+Reviewer for International Journal of Aeronautical & Space Sciences.
+International Journal of Micro Air Vehicles.
 
 For more info
 ------
